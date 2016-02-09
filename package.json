@@ -1,0 +1,19 @@
+{
+    "name": "startline",
+    "description": "start timer",
+    "version": "0.0.1",
+    "private": true,
+    "main": "./app.js",
+    "dependencies": {
+        "lodash": "*",
+        "moment": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "chai": "*",
+        "grunt": "^0.4.5",
+        "grunt-contrib-jshint": "^0.10.0",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-mocha-test": "^0.11.0"
+    }
+}
